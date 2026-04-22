@@ -8,12 +8,10 @@ instructor: Hande Sevgi
   location: Boylston Hall, 104
   time: Tuesdays, 3:00-5:00 PM
   course_id: LING 97R Group Tutorial - Sophomore Year
-  name: Syllabus
-  url: /assets/pdf/Syllabus.pdf
 
 ## Textbooks
 
-There is no required textbook for this tutorial. We will read chapters from various books and journal papers which can be accessed through Canvas.
+There is no required textbook for this tutorial. We will read chapters from various books and journal papers which can be accessed through Canvas. You can see the syllabus here. url: /assets/pdf/Syllabus.pdf
 
 ## Grading
 Your final grade will be based on the following assessments:
