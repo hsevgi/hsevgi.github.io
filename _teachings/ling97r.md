@@ -1,14 +1,15 @@
 ---
-layout: course
-title: Sign Languages and Linguistics
-description: This course is intended for sophomore concentrators in linguistics who already have basic knowledge of linguistic structure taught in introductory linguistics, such as LING 83, LING 101, or similar courses.
+  layout: course
+  title: Sign Languages and Linguistics
+  description: This course is intended for sophomore concentrators in linguistics who already have basic knowledge of linguistic structure taught in introductory linguistics, such as LING 83, LING 101, or similar courses.
 instructor: Hande Sevgi
-year: 2024
-term: Spring
-location: Boylston Hall, 104
-time: Tuesdays, 3:00-5:00 PM
-course_id: LING 97R Group Tutorial - Sophomore Year
-Syllabus: url: /assets/pdf/Syllabus.pdf
+  year: 2024
+  term: Spring
+  location: Boylston Hall, 104
+  time: Tuesdays, 3:00-5:00 PM
+  course_id: LING 97R Group Tutorial - Sophomore Year
+  name: Syllabus
+  url: /assets/pdf/Syllabus.pdf
 
 ## Textbooks
 
