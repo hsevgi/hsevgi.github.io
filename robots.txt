@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://a.github.io/sitemap.xml
+Sitemap: https://github.com/hsevgi/a/sitemap.xml
