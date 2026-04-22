@@ -11,7 +11,7 @@ instructor: Hande Sevgi
 
 ## Textbooks
 
-There is no required textbook for this tutorial. We will read chapters from various books and journal papers which can be accessed through Canvas. You can see the syllabus here. url: /assets/pdf/Syllabus.pdf
+There is no required textbook for this tutorial. We will read chapters from various books and journal papers which can be accessed through Canvas. You can see the syllabus here. url: https://assets/pdf/Syllabus.pdf
 
 ## Grading
 Your final grade will be based on the following assessments:
