@@ -1,189 +1,413 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Hande Sevgi
+  label: Ph.D. Candidate in Linguistics
+  email: handesevgi@g.harvard.edu
+  location: Cambridge, MA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    github_username: hsevgi
+    scholar_userid: vQjR-WcAAAAJ
+    linkedin_username: hande-sevgi-9398a375/
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Harvard University
+        location: Cambridge, MA
+        area: Linguistics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2019
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dissertation: Manner Modification Across Modalities: Insights from Gesture, Sign, and Spoken Language"
+          - "Committee: Kathryn Davidson, Jonathan David Bobaljik, and Kathryn Franich"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Boğaziçi University
+        location: Istanbul, Türkiye
+        area: Linguistics
+        studyType: MA
+        start_date: 2015
+        end_date: 2019
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: The Impact of Age of Acquisition on Structure: A Study on Alignment in Turkish Sign Language"
+          - "Advisor: Kadir Gökgöz"
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: Boğaziçi University
+        location: Istanbul, Türkiye
+        area: Translation and Interpreting Studies
+        studyType: BA
+        start_date: 2009
+        end_date: 2014
         highlights:
-          - Relativity
-          - Description 2.
+          - "Senior Project Thesis: Translating Political Economy Texts through a Functionalist Lens: A Skopos-Based Translation and Analysis of “The Migration and Labor Question Today” by Raúl Delgado Wise"
+          - "Advisor: İsmail Kaplan"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Research Expertise:
+      - name: Research Areas
+        keywords:
+          - Event-internal manner modifiers and their interaction with information structure and negation
+          - Experimental approaches to pragmatics across sign/spoken languages and co-speech gestures
+          - Iconicity across modalities
+          - Morphosyntax of sign language classifiers
+          - Morphosyntax of Turkic languages
+          - Age of acquisition effects in sign languages
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Classifiers, Argument Expression, and Age of Acquisition Effects in Turkish Sign Language
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Hande Sevgi
+          - Kadir Gökgöz
+        publisher: Sign Language & Linguistics
+        releaseDate: 2023
+        summary: "Sign Language & Linguistics, 26(1). DOI: 10.1075/sll.21006.sev"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Where are your manners: Experiments on information structure and manner adverbials in Turkish"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Hande Sevgi
+          - Kathryn Davidson
+        releaseDate: 2025
+        summary: Manuscript under revision
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Two-Handed Classifiers in Turkish Sign Language: An Analysis of the Non-Dominant Hand"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Hande Sevgi
+        releaseDate: 2025
+        summary: Manuscript under revision
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Aspects of clause structure and morphology in Turkish Sign Language"
+        authors:
+          - Kadir Gökgöz
+          - Hande Sevgi
+        publisher: John Benjamins
+        releaseDate: 2020
+        summary: "In Morphological Complexity within and across Boundaries"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: "Null arguments in Turkish Sign Language"
+        authors:
+          - Demet Kayabaşı
+          - Hande Sevgi
+          - A. Sumru Ozsoy
+        publisher: John Benjamins
+        releaseDate: 2020
+        summary: "In Morphological Complexity within and across Boundaries"
 
-      - name: English
-        summary: "Fluent"
+      - title: "Syntax, Chapter 2: Clause Structure, Section 2.1: The syntactic realization of argument structure"
+        authors:
+          - Kadir Gökgöz
+          - Demet Kayabaşı
+          - Hande Sevgi
+        publisher: SIGN-HUB Sign Language Grammar Series
+        releaseDate: 2020
+        summary: "In A Grammar of Turkish Sign Language (TİD), edited by Meltem Kelepir"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Proceedings of the Workshop on Turkic and Languages in Contact with Turkic, Vol. 8"
+        authors:
+          - Daria A. Bikina
+          - Hande Sevgi
+        publisher: Linguistic Society of America
+        releaseDate: 2023
+        summary: Edited volume
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - title: "One root to build them all: Roots in sign language classifiers"
+        authors:
+          - Hande Sevgi
+        publisher: Proceedings of West Coast Conference on Formal Linguistics
+        releaseDate: 2024
+        summary: "39(2), 393–400"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - title: "Age of acquisition effects in zero-anaphora comprehension in Turkish Sign Language"
+        authors:
+          - Hande Sevgi
+          - Kadir Gökgöz
+        publisher: Proceedings of the Boston University Conference on Language Development
+        releaseDate: 2024
+        summary: "48(2), 481–493"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: "Plural Possession in Turkish and Sakha"
+        authors:
+          - Ian L. Kirby
+          - Hande Sevgi
+        publisher: Proceedings of the Workshop on Turkic and Languages in Contact with Turkic
+        releaseDate: 2023
+        summary: "7(1), 73–87"
+
+      - title: "Verb doubling in Turkish: Evidence from Trabzon dialect"
+        authors:
+          - Hande Sevgi
+        publisher: Proceedings of the Workshop on Turkic and Languages in Contact with Turkic
+        releaseDate: 2022
+        summary: Peer-reviewed proceedings paper
+
+      - title: "Manner in Gesture and Language: An Experimental Approach"
+        authors:
+          - Hande Sevgi
+          - Kathryn Davidson
+        releaseDate: 2025
+        summary: Work in progress
+
+    Presentations:
+      - name: "Gesture Type Matters: Encoding Path and Manner in Space"
+        summary: Poster presented at the International Max Planck Research School (IMPRS), Max Planck Institute for Psycholinguistics, the Netherlands
+        start_date: 2024-06-05
+        end_date: 2024-06-07
+
+      - name: "Two-Handed Classifiers in Sign Languages: An Investigation in Turkish Sign Language"
+        summary: Paper presented at the 60th Meeting of the Chicago Linguistic Society (CLS 60), University of Chicago
+        start_date: 2024-04-26
+        end_date: 2024-04-28
+
+      - name: "Age of Acquisition Effects in Zero-Anaphora Comprehension in Turkish Sign Language"
+        summary: Poster presented at BUCLD 48, Boston University
+        start_date: 2023-11-02
+        end_date: 2023-11-05
+
+      - name: "Plural possession in Turkish and Sakha"
+        summary: Paper presented at the 7th Workshop on Turkic and Languages in Contact with Turkic, University of Connecticut
+        start_date: 2022-02-18
+        end_date: 2022-02-19
+
+      - name: "Syntax on its own is not enough: Sign language classifiers"
+        summary: Poster presented at the 57th Meeting of the Chicago Linguistic Society, University of Chicago
+        start_date: 2021-05-06
+        end_date: 2021-05-08
+
+      - name: "One root to build them all: Roots in sign language classifiers"
+        summary: Poster presented at the 39th Meeting of West Coast Conference, University of Arizona
+        start_date: 2021-04-08
+        end_date: 2021-04-11
+
+      - name: "Verb doubling in Turkish: Data from Trabzon dialect"
+        summary: Paper presented at the 6th Workshop on Turkic and Languages in Contact with Turkic, University of Toronto
+        start_date: 2021-02-19
+        end_date: 2021-02-20
+
+    Teaching:
+      - company: Harvard University
+        position: Tutorial Head Instructor
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - "Sophomore Tutorial: Sign Languages & Linguistics (Spring 2024)"
+          - "Sophomore Tutorial: A Brief Introduction to Sign Language Linguistics (Spring 2023)"
+          - "Junior Tutorial: Understanding Language through Sign Languages (Fall 2022)"
+
+      - company: Harvard University
+        position: Teaching Fellow
+        start_date: 2021
+        end_date: 2024
+        highlights:
+          - "Practicum (Instructor: Jonathan David Bobaljik), Spring 2024"
+          - "Language, Structure, and Cognition (Instructor: Adam R. Singerman), Spring 2022"
+          - "The Science of Language: An Introduction (Instructor: Yağmur Sağ), Fall 2021"
+          - "Word Structure (Instructor: Jonathan David Bobaljik), Fall 2021"
+
+      - company: Boğaziçi University
+        position: Research Assistant / Teaching Support
+        start_date: 2017
+        end_date: 2019
+        highlights:
+          - "Morphology, Spring 2019"
+          - "Phonetics, Spring 2019"
+          - "Syntax, Fall 2018"
+          - "Phonology, Fall 2018"
+          - "Phonetics, Spring 2018"
+          - "Syntax and Semantics of Modern Turkish, Spring 2018"
+          - "Phonology, Fall 2017"
+
+      - company: Boğaziçi University Turkish Language and Culture Program
+        position: Instructor / Teaching Assistant
+        start_date: 2018
+        end_date: 2019
+        highlights:
+          - "Instructor of Speaking Course, Pre-Intermediate Turkish Class, Summer 2019"
+          - "Teaching Assistant, Advanced Turkish Class, Summer 2018"
+
+    Awards:
+      - title: Dissertation Completion Fellowship
+        awarder: Harvard University
+        date: 2024
+        summary: Fall 2024 – Spring 2025
+
+      - title: Mind, Brain, and Behavior Graduate Student Award
+        awarder: Harvard University
+        date: 2024
+        summary: Spring 2024 – Fall 2024 ($5000)
+
+      - title: Bok Teaching Certificate
+        awarder: Derek Bok Center for Teaching and Learning, Harvard University
+        date: 2023
+        summary: Completed a multi-semester elective program in pedagogy, teaching, and course design
+
+      - title: Student Recognition of Teaching
+        awarder: Harvard Kenneth C. Griffin Graduate School of Arts and Sciences
+        date: 2022
+        summary: Awarded for Ling 98A, Tutorial Head Instructor
+
+      - title: Certificate of Distinction in Teaching
+        awarder: Harvard University
+        date: 2021
+        summary: "Awarded for Ling 83 (Spring 2022) and Ling 104 (Fall 2021)"
+
+      - title: Certificate on German
+        awarder: Boğaziçi University
+        date: 2014
+
+      - title: Erasmus Grant
+        awarder: European Union
+        date: 2011
+        summary: Study at Lessius University College, Antwerp, Belgium
+
+    Talks and Lectures:
+      - name: Sign Languages and Linguistics
+        summary: Guest lecture at Harvard University
+        highlights:
+          - "ling-S 101 instructed by Ankana Saha, July 24, 2024"
+          - "ling 101 instructed by Tanya Bondarenko, November 6, 2024"
+          - "ling 101 instructed by Yağmur Sağ, November 28, 2022"
+          - "ling 101 instructed by Yağmur Sağ, November 29, 2021"
+
+      - name: Sign Language Morphology
+        summary: Guest lecture at Harvard University
+        highlights:
+          - "ling 104 instructed by Jonathan David Bobaljik, November 12, 2024"
+          - "ling 104 instructed by Jonathan David Bobaljik, November 16, 2021"
+
+      - name: A Visit to the Sign Language World
+        summary: Invited talk, Harvard Undergraduate Linguistics Society (HULS)
+        start_date: 2022-10-18
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Supporting Sign Language Development of Deaf Children with Hearing Parents through Linguistically-Informed Preschool Stories
+        summary: Research Assistant
+        start_date: 2018
+        end_date: 2019
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Funded by Boğaziçi University (#11500)"
+          - "PI: Dr. Kadir Gökgöz, Boğaziçi University"
+
+      - name: "Language Contact in Turkey: Documentation and Analysis"
+        summary: Research Assistant
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - "Funded by Boğaziçi University (#1445)"
+          - "PI: Dr. Aslı Göksel, Boğaziçi University"
+
+      - name: Contrastive interlanguage analysis of French, Portuguese, Japanese, and Turkish
+        summary: Responsible for data collection
+        start_date: 2016
+        end_date: 2017
+        highlights:
+          - "PI: Dr. Yuji Kawaguchi, TUFS"
+
+    Academic Service:
+      - company: Harvard University
+        position: Pedagogy Fellow, Department of Linguistics
+        start_date: 2023
+        end_date: 2024
+
+      - company: Harvard University
+        position: Lab Manager, Meaning and Modality Lab
+        start_date: 2023
+        end_date: 2024
+
+      - company: Harvard University
+        position: Assistant Head Tutor, Department of Linguistics
+        start_date: 2022
+        end_date: 2023
+
+      - company: Harvard University
+        position: Co-organizer, Eighth Workshop on Turkic and Languages in Contact with Turkic (Tu+8)
+        start_date: 2023
+        end_date: 2023
+        highlights:
+          - with Daria A. Bikina
+
+      - company: Harvard University
+        position: Co-coordinator, East Coast Five (ECO-5)
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - with Aljoša Milenkovič
+
+      - company: Harvard University
+        position: Co-coordinator, Harvard Linguistic Universals Colloquium Series
+        start_date: 2021
+        end_date: 2023
+        highlights:
+          - with Yuhan Zhang (2021) and Daria Bikina (2022)
+
+      - company: Boğaziçi University
+        position: Representative of graduate students of Linguistics Department
+        start_date: 2016
+        end_date: 2017
+
+      - company: Various
+        position: Conference Reviewer
+        start_date: 2023
+        end_date: present
+        highlights:
+          - The Annual Meeting of the Chicago Linguistic Society (CLS)
+          - The Workshop on Turkic and Languages in Contact with Turkic (Tu+)
+
+    Experience:
+      - company: Mercor.co
+        position: Generative Model Evaluator - Intern
+        start_date: 2025-06
+        end_date: 2025-11
+        summary: Under the Project Elephant
+        Contributed to LLM training and evaluation by designing, implementing, and reviewing domain-specific human-in-the-loop evaluation frameworks integrating qualitative judgments with quantitative metrics.
+
+    Affiliations:
+      - name: Meaning and Modality Lab
+        summary: Member
+        start_date: 2019
+        end_date: present
+
+      - name: Sign Language Linguistics Society (SLLS)
+        start_date: 2023
+        end_date: present
+
+      - name: Linguistics Society of America
+        start_date: 2025
+        end_date: present
+
+    Languages:
+      - name: Turkish
+        summary: Native
+
+      - name: English
+        summary: Fluent
+
+      - name: German
+        summary: Upper Intermediate (good reading, fair speaking)
+
+      - name: Turkish Sign Language (TİD)
+        summary: Research proficiency
+
+      - name: American Sign Language (ASL)
+        summary: Research proficiency
+
+    Skills:
+      - name: Programming and Tools
+        keywords:
+          - R
+          - Python
+          - SQL
+          - ELAN
+          - Qualtrics
+          - RStudio
+          - LaTeX
+          - TeXEditor
+          - PRAAT
+          - Adobe Animate
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Kathryn Davidson
+        reference: Harvard University, Professor of Linguistics, kathryndavidson@fas.harvard.edu
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Jonathan David Bobaljik
+        reference: Harvard University, Professor of Linguistics, bobaljik@fas.harvard.edu
+
+      - name: Kadir Gökgöz
+        reference: Boğaziçi University, Associate Professor of Linguistics, kadir.gokgoz@bogazici.edu.tr
