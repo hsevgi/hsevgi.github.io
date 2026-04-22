@@ -1,9 +1,7 @@
 ---
 layout: course
 title: Sign Languages and Linguistics
-description: Sign languages are natural languages in terms of their structural properties and acquisition process. Moreover, they present a different dimension for us to understand the human mind and language. In this tutorial, we are going to motivate the use of the traditional frameworks used for the spoken languages to analyze sign language data. In addition, we will investigate similarities and differences among sign languages and between spoken and signed modalities, with a focus on the notion of linguistic universals.
-Throughout this tutorial, I invite you to ask the following questions to get a better understanding of sign languages, and more importantly, of the human mind. Why should we investigate sign languages? If phonology is the science of sounds, why do we even bother to have a phonological analysis of sign languages? Is iconicity specific to sign languages? If sign languages are highly iconic, does that mean all sign languages are mutually intelligible? By answering these questions, this tutorial aims to provide a brief introduction to sign languages and show what sign language linguistics can contribute to the linguistics field.
-This course is intended for sophomore concentrators in linguistics who already have basic knowledge of linguistic structure taught in introductory linguistics, such as LING 83, LING 101, or similar courses. This tutorial is not a language class. No sign language background is required.
+description: This course is intended for sophomore concentrators in linguistics who already have basic knowledge of linguistic structure taught in introductory linguistics, such as LING 83, LING 101, or similar courses.
 instructor: Hande Sevgi
 year: 2024
 term: Spring
