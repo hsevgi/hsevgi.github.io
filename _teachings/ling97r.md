@@ -7,8 +7,8 @@ year: 2024
 term: Spring
 location: Boylston Hall, 104
 time: Tuesdays, 3:00-5:00 PM
-course_id: "LING 97R Group Tutorial - Sophomore Year
-schedule: You can fin the name: Syllabus here url: /assets/pdf/Syllabus.pdf
+course_id: LING 97R Group Tutorial - Sophomore Year
+Syllabus: url: /assets/pdf/Syllabus.pdf
 
 ## Textbooks
 
